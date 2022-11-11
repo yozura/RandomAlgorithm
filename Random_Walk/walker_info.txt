@@ -1,0 +1,20 @@
+Walker ID : 1
+Walker WalkCount : 429
+Walker LastPos : 0, 17
+
+Walker ID : 2
+Walker WalkCount : 478
+Walker LastPos : 49, 39
+
+Walker ID : 3
+Walker WalkCount : 586
+Walker LastPos : 18, 49
+
+Walker ID : 4
+Walker WalkCount : 2048
+Walker LastPos : 13, 49
+
+Walker ID : 5
+Walker WalkCount : 966
+Walker LastPos : 0, 15
+
