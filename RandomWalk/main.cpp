@@ -63,7 +63,7 @@ int main()
     int dirX = 0, dirY = 0, rand;
     ULONGLONG begin, cur, delay;
     begin = GetTickCount64();
-    delay = 10;
+    delay = 1000;
     while (!result)
     {
         cur = GetTickCount64();
